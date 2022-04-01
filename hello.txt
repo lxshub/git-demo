@@ -1,5 +1,5 @@
-hello! Gi
-hello! Gi
+hello! Git!
+hello! Git!
 hello!
 hello!
 hello!
@@ -20,4 +20,4 @@ hello! hot-fix test
 222222222222222 by lhc
 333333333333333 by dongfang
 fanish
-SSH
+SSH Yes
